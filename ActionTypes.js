@@ -1,0 +1,12 @@
+export const HOMES_LOADING = 'HOMES_LOADING';
+export const ADD_HOMES = 'ADD_HOMES';
+export const HOMES_FAILED = 'HOMES_FAILED';
+
+export const ADD_COMMENTS = 'ADD_COMMENTS';
+export const COMMENTS_FAILED = 'COMMENTS_FAILED';
+
+export const PARTNERS_LOADING = 'PARTNERS_LOADING';
+export const ADD_PARTNERS = 'ADD_PARTNERS';
+export const PARTNERS_FAILED = 'PARTNERS_FAILED';
+
+export const ADD_FAVORITE = 'ADD_FAVORITE';
